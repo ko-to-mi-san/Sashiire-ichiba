@@ -1,13 +1,13 @@
-#さしいれ市場（http://codecamp24118.lesson9.codecamp.jp//sashiire_ichiba/login.php）
+# さしいれ市場（http://codecamp24118.lesson9.codecamp.jp//sashiire_ichiba/login.php）
 
-##差し入れにぴったりの商品が見つかるECサイトです。
+## 差し入れにぴったりの商品が見つかるECサイトです。
 
-##パスワード
+## パスワード
 ユーザーID:guest
 ログイン:guest123
 
 
-##なんで作ったの？
+## なんで作ったの？
 私はアイドルが好きで、
 インターネットで知り合った同じアイドルファンの方と友達になることが多いです。
 そういった「ネット上では友達だけど、初めて会う」とか
