@@ -1,10 +1,9 @@
 # さしいれ市場（http://codecamp24118.lesson9.codecamp.jp//sashiire_ichiba/login.php）
-
-## 差し入れにぴったりの商品が見つかるECサイトです。
+差し入れにぴったりの商品が見つかるECサイトです。
 
 ## パスワード
-ユーザーID:guest
-ログイン:guest123
+ユーザーID:guest  
+ログイン:guest123  
 
 
 ## なんで作ったの？
